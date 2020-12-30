@@ -7,18 +7,18 @@ I did a two week internship at Prosper IT Consulting working on an an ASP.NET MV
 
 Back End:
 
--[Delete Users](https://github.com/mcleeder/CodeSamples/blob/main/ASPNET_MVC_App.md#delete-users)
+-[Delete Users](README.md#delete-users)
 
--[Admin Overlay](https://github.com/mcleeder/CodeSamples/blob/main/ASPNET_MVC_App.md#admin-overlay)
+-[Admin Overlay](README.md#admin-overlay)
 
 
 Front End:
 
--[Edit Users](https://github.com/mcleeder/CodeSamples/blob/main/ASPNET_MVC_App.mdd#edit-users)
+-[Edit Users](README.md#edit-users)
 
--[Templates View](https://github.com/mcleeder/CodeSamples/blob/main/ASPNET_MVC_App.md#templates-view)
+-[Templates View](README.md#templates-view)
 
--[Form Bug Fix](https://github.com/mcleeder/CodeSamples/blob/main/ASPNET_MVC_App.md#form-bug-fix)
+-[Form Bug Fix](README.md#form-bug-fix)
 
 ### Delete users
 
