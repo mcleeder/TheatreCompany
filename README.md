@@ -1,4 +1,4 @@
-# Boot Camp Live Projects
+# ASP.NET MVC Project - TheatreCompany
 
 
 ## Introduction
